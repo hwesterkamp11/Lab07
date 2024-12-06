@@ -39,5 +39,6 @@ public class Main {
             } while(!finite);
             finite = false;
         } while(!cancel);
+        System.out.println("");
     }
 }
